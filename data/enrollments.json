@@ -1,0 +1,32 @@
+[
+  {
+    "enrollment_id": "ENR-001",
+    "course_id": "REACT-101",
+    "employee_name": "John Smith",
+    "employee_email": "john.smith@company.com"
+  },
+  {
+    "enrollment_id": "ENR-002",
+    "course_id": "REACT-101",
+    "employee_name": "Alice Johnson",
+    "employee_email": "alice.johnson@company.com"
+  },
+  {
+    "enrollment_id": "ENR-003",
+    "course_id": "PYTHON-201",
+    "employee_name": "Bob Williams",
+    "employee_email": "bob.williams@company.com"
+  },
+  {
+    "enrollment_id": "ENR-004",
+    "course_id": "DEVOPS-101",
+    "employee_name": "Carol Davis",
+    "employee_email": "carol.davis@company.com"
+  },
+  {
+    "enrollment_id": "ENR-005",
+    "course_id": "DATA-301",
+    "employee_name": "David Brown",
+    "employee_email": "david.brown@company.com"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "course_id": "REACT-101",
+    "course_name": "React Fundamentals",
+    "trainer": "Sarah Johnson",
+    "capacity": 30
+  },
+  {
+    "course_id": "PYTHON-201",
+    "course_name": "Advanced Python",
+    "trainer": "Mike Chen",
+    "capacity": 25
+  },
+  {
+    "course_id": "DEVOPS-101",
+    "course_name": "DevOps Essentials",
+    "trainer": "Alex Martinez",
+    "capacity": 20
+  },
+  {
+    "course_id": "DATA-301",
+    "course_name": "Data Science Masterclass",
+    "trainer": "Dr. Emily Wilson",
+    "capacity": 15
+  }
+]
